@@ -1,0 +1,22 @@
+# Blender 4.1.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Material.006
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd neg.png
+map_Ns C:/royghness.png
+
+newmtl Material.007
+Ns 87.888618
+Ka 1.000000 1.000000 1.000000
+Ks 0.756637 0.756637 0.756637
+Ke 1.000000 0.951640 0.001673
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd amarillo.png

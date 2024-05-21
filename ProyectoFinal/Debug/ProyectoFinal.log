@@ -1,0 +1,28 @@
+﻿  MainPrueba.cpp
+C:\Users\david\OneDrive\Escritorio\PROYECTOFINAL2024-1-main\PROYECTOFINAL2024-1-main\ProyectoFinal\MainPrueba.cpp(135,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\david\OneDrive\Escritorio\PROYECTOFINAL2024-1-main\PROYECTOFINAL2024-1-main\ProyectoFinal\MainPrueba.cpp(141,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\david\OneDrive\Escritorio\PROYECTOFINAL2024-1-main\PROYECTOFINAL2024-1-main\ProyectoFinal\MainPrueba.cpp(144,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\david\OneDrive\Escritorio\PROYECTOFINAL2024-1-main\PROYECTOFINAL2024-1-main\ProyectoFinal\MainPrueba.cpp(149,66): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\david\OneDrive\Escritorio\PROYECTOFINAL2024-1-main\PROYECTOFINAL2024-1-main\ProyectoFinal\MainPrueba.cpp(152,66): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\david\OneDrive\Escritorio\PROYECTOFINAL2024-1-main\PROYECTOFINAL2024-1-main\ProyectoFinal\MainPrueba.cpp(500,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\david\OneDrive\Escritorio\PROYECTOFINAL2024-1-main\PROYECTOFINAL2024-1-main\ProyectoFinal\MainPrueba.cpp(633,11): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\david\OneDrive\Escritorio\PROYECTOFINAL2024-1-main\PROYECTOFINAL2024-1-main\ProyectoFinal\MainPrueba.cpp(634,18): warning C4244: 'inicializando': conversión de 'genFIType' a 'float'; posible pérdida de datos
+          with
+          [
+              genFIType=double
+          ]
+C:\Users\david\OneDrive\Escritorio\PROYECTOFINAL2024-1-main\PROYECTOFINAL2024-1-main\ProyectoFinal\MainPrueba.cpp(635,18): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\david\OneDrive\Escritorio\PROYECTOFINAL2024-1-main\PROYECTOFINAL2024-1-main\ProyectoFinal\MainPrueba.cpp(928,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\david\OneDrive\Escritorio\PROYECTOFINAL2024-1-main\PROYECTOFINAL2024-1-main\ProyectoFinal\MainPrueba.cpp(1066,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\david\OneDrive\Escritorio\PROYECTOFINAL2024-1-main\PROYECTOFINAL2024-1-main\ProyectoFinal\MainPrueba.cpp(1067,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\david\OneDrive\Escritorio\PROYECTOFINAL2024-1-main\PROYECTOFINAL2024-1-main\ProyectoFinal\MainPrueba.cpp(1071,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\david\OneDrive\Escritorio\PROYECTOFINAL2024-1-main\PROYECTOFINAL2024-1-main\ProyectoFinal\MainPrueba.cpp(1072,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\david\OneDrive\Escritorio\PROYECTOFINAL2024-1-main\PROYECTOFINAL2024-1-main\ProyectoFinal\MainPrueba.cpp(1074,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\david\OneDrive\Escritorio\PROYECTOFINAL2024-1-main\PROYECTOFINAL2024-1-main\ProyectoFinal\MainPrueba.cpp(1075,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\david\OneDrive\Escritorio\PROYECTOFINAL2024-1-main\PROYECTOFINAL2024-1-main\ProyectoFinal\MainPrueba.cpp(1101,13): warning C4305: '+=': truncamiento de 'double' a 'float'
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(etc1_utils.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(image_DXT.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(image_helper.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(SOIL2.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+  ProyectoFinal.vcxproj -> C:\Users\david\OneDrive\Escritorio\PROYECTOFINAL2024-1-main\PROYECTOFINAL2024-1-main\Debug\ProyectoFinal.exe
